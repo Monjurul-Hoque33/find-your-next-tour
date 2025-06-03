@@ -6,8 +6,8 @@ A clean, modern, and responsive portfolio website designed to showcase your work
 
 ## Live Preview
 
-🔗 [Live Website](https://monjurul-hoque33.github.io/find-your-next-tour/)  
-🔗 [GitHub Repository](https://monjurul-hoque33.github.io/find-your-next-tour/)
+[Live Website](https://monjurul-hoque33.github.io/find-your-next-tour/)  
+[GitHub Repository](https://monjurul-hoque33.github.io/find-your-next-tour/)
 
 # Tech Stack
 
@@ -23,12 +23,4 @@ A clean, modern, and responsive portfolio website designed to showcase your work
 - Contact form UI  
 - Professional section layout: About, Services, Projects, Contact  
 - Clean and modern UI  
-- Customizable content and structure
-
-# Screenshots
-
-| Home Section | Projects Section |
-|--------------|------------------|
-| ![Home](https://your-image-link.com/home.png) | ![Projects](https://your-image-link.com/projects.png) |
-
-
+- Customizable content and structure...
